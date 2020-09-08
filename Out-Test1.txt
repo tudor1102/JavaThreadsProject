@@ -1,0 +1,255 @@
+Time0
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(1 7 4)
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time1
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(1 7 4)
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time2
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(1 7 4)
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time3
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(1 7 4)
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time4
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(1 7 4)
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time5
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(1 7 4)
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time6
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(1 7 4)
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time7
+Queue 0
+(1 7 4)
+Queue 1 closed
+Waiting 
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time8
+Queue 0
+(1 7 3)
+Queue 1 closed
+Waiting 
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time9
+Queue 0
+(1 7 2)
+Queue 1 closed
+Waiting 
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time10
+Queue 0
+(1 7 1)
+Queue 1 closed
+Waiting 
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time11
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time12
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time13
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(3 14 4)
+(2 18 3)
+(0 25 4)
+
+
+Time14
+Queue 0 closed
+Queue 1
+(3 14 4)
+Waiting 
+(2 18 3)
+(0 25 4)
+
+
+Time15
+Queue 0 closed
+Queue 1
+(3 14 3)
+Waiting 
+(2 18 3)
+(0 25 4)
+
+
+Time16
+Queue 0 closed
+Queue 1
+(3 14 2)
+Waiting 
+(2 18 3)
+(0 25 4)
+
+
+Time17
+Queue 0 closed
+Queue 1
+(3 14 1)
+Waiting 
+(2 18 3)
+(0 25 4)
+
+
+Time18
+Queue 0
+(2 18 3)
+Queue 1 closed
+Waiting 
+(0 25 4)
+
+
+Time19
+Queue 0
+(2 18 2)
+Queue 1 closed
+Waiting 
+(0 25 4)
+
+
+Time20
+Queue 0
+(2 18 1)
+Queue 1 closed
+Waiting 
+(0 25 4)
+
+
+Time21
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(0 25 4)
+
+
+Time22
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(0 25 4)
+
+
+Time23
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(0 25 4)
+
+
+Time24
+Queue 0 closed
+Queue 1 closed
+Waiting 
+(0 25 4)
+
+
+Time25
+Queue 0 closed
+Queue 1
+(0 25 4)
+
+
+Time26
+Queue 0 closed
+Queue 1
+(0 25 3)
+
+
+Time27
+Queue 0 closed
+Queue 1
+(0 25 2)
+
+
+Time28
+Queue 0 closed
+Queue 1
+(0 25 1)
+
+
+Time 29
+Queue 0 closed
+Queue 1 closed
+
+
+Average waiting time: 15.0
